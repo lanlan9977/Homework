@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/changeWallpaper"
+        android:title="@string/changeWallpaper">
+        <menu>
+            <item android:id="@+id/changeWallpaperA"
+                android:title="@string/wallpaperA"/>
+            <item android:id="@+id/changeWallpaperB"
+                android:title="@string/wallpaperB"/>
+            <item android:id="@+id/changeWallpaperC"
+                android:title="@string/wallpaperC"/>
+        </menu>
+    </item>
+    <item android:id="@+id/changeYBR"
+        android:title="@string/changeYBR">
+        <menu>
+            <item android:id="@+id/changeYellow"
+                android:title="@string/yellow"/>
+            <item android:id="@+id/changeBlue"
+                android:title="@string/blue"/>
+            <item android:id="@+id/changeRed"
+                android:title="@string/red"/>
+        </menu>
+    </item>
+
+</menu>

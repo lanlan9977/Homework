@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeworkVII</string>
+    <string name="circle">圓形</string>
+    <string name="rect">正方形</string>
+    <string name="red">紅色</string>
+    <string name="blue">藍色</string>
+    <string name="end">結束</string>
+</resources>

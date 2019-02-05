@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomeworkI</string>
+    <string name="btnCheckBox">Save my information</string>
+    <string name="btnSubmit">SUBMIT</string>
+    <string name="dataCheck">The data is saved</string>
+    <string name="mobile">Input your phone here</string>
+    <string name="name">Input your name here</string>
+    <string name="setmobile">phone:</string>
+    <string name="setname">name:</string>
+</resources>

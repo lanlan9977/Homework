@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeworkII</string>
+    <string name="colorRed">紅色</string>
+    <string name="colorGreen">綠色</string>
+    <string name="colorBlue">藍色</string>
+    <string name="sbstart">開始滑...</string>
+    <string name="redBend">RED value is：</string>
+    <string name="greenBend">GREEN value is：</string>
+    <string name="blueBend">BLUE value is：</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomeworkIII</string>
+    <string name="previous">上一張</string>
+    <string name="next">下一張</string>
+    <string name="p1">巴爾的摩金鶯</string>
+    <string name="p2">芝加哥白襪</string>
+    <string name="p3">洛杉磯天使</string>
+    <string name="p4">波士頓紅襪</string>
+    <string name="p5">亞特蘭大勇士</string>
+    <string name="p6">奧克蘭運動家</string>
+    <string name="p7">紐約洋基</string>
+    <string name="p8">底特律老虎</string>
+    <string name="p9">西雅圖水手</string>
+    <string name="p10">坦帕灣光芒</string>
+</resources>

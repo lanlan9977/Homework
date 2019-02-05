@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeworkV</string>
+    <string name="information">MLB Teams Information</string>
+    <string name="team1">巴爾的摩金鶯</string>
+    <string name="team2">芝加哥白襪</string>
+    <string name="team3">洛杉磯天使</string>
+    <string name="team4">波士頓紅襪</string>
+    <string name="team5">克里夫蘭印地安人</string>
+    <string name="team6">奧克蘭運動家</string>
+    <string name="team7">紐約洋基</string>
+    <string name="team8">底特律老虎</string>
+    <string name="team9">西雅圖水手</string>
+    <string name="team10">坦帕灣光芒</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <group android:id="@+id/secondGroup">
+
+        <item
+            android:id="@+id/itemRed"
+            android:title="@string/red" />
+        <item
+            android:id="@+id/itemBlue"
+            android:title="@string/blue" />
+        <item
+            android:id="@+id/itemCircle"
+            android:title="@string/circle"></item>
+        <item
+            android:id="@+id/itemRect"
+            android:title="@string/rect"></item>
+
+    </group>
+</menu>

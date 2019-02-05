@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeworkI</string>
+    <string name="name">輸入你的姓名</string>
+    <string name="setname">姓名:</string>
+    <string name="mobile">輸入你的手機號碼</string>
+    <string name="setmobile">手機號碼:</string>
+    <string name="btnSubmit">送出</string>
+    <string name="btnCheckBox">儲存資料</string>
+    <string name="dataCheck">資料已儲存</string>
+</resources>
